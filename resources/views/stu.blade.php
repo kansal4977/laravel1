@@ -1,0 +1,1 @@
+<h1>Hello from student page {{$st}}</h1>        <!-- getting value from showStuNameToView in stucontroller -->
